@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding :0;
+    box-sizing: border-box;
+}
+.parent
+{
+    border: 2px solid black;
+    width: 600px;
+    height: 400px;
+}
+.child
+{
+    border: 1px solid red;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    background-color: teal;
+    margin: -2px;
+    
+   
+}
